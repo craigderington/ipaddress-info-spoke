@@ -15,14 +15,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-03-29 19:45:11</sys_created_on>
         <sys_id>f61780f4db683300346ddde748961984</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>Script step</sys_name>
         <sys_package display_value="IPInfo Spoke" source="x_328385_ipinfo_sp">0134b328dbe03300346ddde7489619d3</sys_package>
         <sys_policy/>
         <sys_scope display_value="IPInfo Spoke">0134b328dbe03300346ddde7489619d3</sys_scope>
         <sys_update_name>sys_hub_step_instance_f61780f4db683300346ddde748961984</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-03-29 19:51:31</sys_updated_on>
+        <sys_updated_on>2019-04-01 14:37:49</sys_updated_on>
     </sys_hub_step_instance>
     <sys_variable_value action="delete_multiple" query="document_key=f61780f4db683300346ddde748961984"/>
     <sys_variable_value action="INSERT_OR_UPDATE">
@@ -84,9 +84,9 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-03-29 19:45:11</sys_created_on>
         <sys_id>871780f4db683300346ddde74896199d</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-03-29 19:45:11</sys_updated_on>
+        <sys_updated_on>2019-04-01 14:37:49</sys_updated_on>
         <table>var__m_sys_hub_step_ext_input_f61780f4db683300346ddde748961984</table>
         <value>{{step[d1d3357c-ba77-408a-8a20-7995733b26d8].response_body}}</value>
     </sys_element_mapping>
@@ -108,9 +108,9 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-03-29 19:45:11</sys_created_on>
         <sys_id>4b1780f4db683300346ddde74896199d</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-03-29 19:45:11</sys_updated_on>
+        <sys_updated_on>2019-04-01 14:37:49</sys_updated_on>
         <table>var__m_sys_hub_step_ext_input_f61780f4db683300346ddde748961984</table>
         <value>{{step[d1d3357c-ba77-408a-8a20-7995733b26d8].status_code}}</value>
     </sys_element_mapping>
